@@ -1,0 +1,2 @@
+# FirstWiki
+Wiki openstat repository
